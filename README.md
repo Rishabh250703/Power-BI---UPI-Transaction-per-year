@@ -7,7 +7,7 @@ Key Metrics & Overview
 **Total Transactions:** 300K (+8.3% MoM growth)
 **Success Rate:** 96.00% (Demonstrating robust infrastructure stability)
 **Active User Base:** 108K
-*Created with ❤️ by a Data Analyst.*
+*Created by a Data Analyst.*
 
 Tech Stack & Tools
 **Data Visualization & BI:** Microsoft Power BI
